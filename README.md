@@ -1,7 +1,10 @@
 # Lab4Web
 Nama : Muhamad Farhan
+
 NIM : 312010400
+
 Kelas : TI.A.2
+
 Tugas Layout WebProgramming
 Instruksi Praktikum
 
