@@ -115,7 +115,7 @@ Menambahkan Content Artikel Selanjutnya membuat content artikel. Tambahkan HTML 
 
 Kemudian tambahkan CSS. 
 
-<img width="768" alt="home 8" src="https://user-images.githubusercontent.com/101417081/160799910-af7230aa-eb6e-48ca-9e2d-3fead288a385.png">
+<img width="768" alt="home 8" src="https://user-images.githubusercontent.com/101417081/160800894-413d269c-c1b5-49f3-b8a4-4be9e79f9696.png">
 
 Pertanyaan dan Tugas
 Tambahkan Layout untuk menu About buat single layout yang berisi deskripsi, portfolio, dll
