@@ -123,6 +123,7 @@ Tambahkan Layout untuk menu About buat single layout yang berisi deskripsi, port
 
 Tambahkan layout untuk menu Contact yang berisi form isian: nama, email, message, dll
 
+<img width="944" alt="contact html" src="https://user-images.githubusercontent.com/101417081/160801473-fbb3337b-b475-4de1-966b-9af085bc9b86.png">
 
 Laporan Praktikum
 Buatlah repository baru dengan nama Lab4Web.
